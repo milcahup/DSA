@@ -15,6 +15,7 @@ public class Quiz1Sort {
         }
     }
 
+    // Sort method
     public static void sort(int[] a) {
         for (int i = a.length - 1; i > 0; i--) {
             for (int j = i - 1; j >= 0; j--) {
