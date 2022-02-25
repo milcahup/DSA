@@ -8,7 +8,7 @@ public class Quiz1Sort {
         }
         System.out.println();
 
-        sort(a);
+        sort(a); //implement Sort method
 
         for (int i = 0; i < a.length; i++) {
             System.out.print(a[i] + " ");
